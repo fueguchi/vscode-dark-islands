@@ -1,5 +1,4 @@
 {
-  "// Islands Dark Settings v0.0.2": "",
   "workbench.colorTheme": "Islands Dark",
   "editor.fontFamily": "IBM Plex Mono",
   "terminal.integrated.fontFamily": "FiraCode Nerd Font Mono",
@@ -568,8 +567,6 @@
       "width": "0 !important",
       "opacity": "0 !important"
    },
-
-   "// ─── end ───": ""
   },
 "workbench.iconTheme": "vs-seti-folder",
 "chat.viewSessions.orientation": "stacked"
